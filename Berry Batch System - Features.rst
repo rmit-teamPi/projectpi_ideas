@@ -10,7 +10,7 @@ Primary Set of Features
 3) The "slavepiX" will process the job and returns an exit code once it has finished processing.
 4) The "masterpi" will update its state table.
 
-=) The "masterpi" will monitor memory usage of each "slavepiX" node, to ensure that memory leaks are detected.
+99) The "masterpi" will monitor memory usage of each "slavepiX" node, to ensure that memory leaks are detected.
 
 
 Additional Set of Features (if time permits)
